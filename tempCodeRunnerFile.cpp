@@ -1,4 +1,6 @@
-for(int k=1;k<=i;k++){
-    //     cout<<k;
-    //     cout<<" ";
-    // }
+else if(arr[i]>arr_2[start2]){
+                // cout<<arr[i]<<arr_2[start2]<<" values"<<endl;
+                start2++;
+                
+                
+            }
