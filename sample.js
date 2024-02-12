@@ -1,10 +1,11 @@
-let a =[1,1,1,2,2,3]
+let a =[1,1,1,2,2,3,3,5]
 let obj={}
 for(let k of a){
     if(obj[k]==undefined){
         obj[k]=1
     }else{
         obj[k]+=1
+        
     }
 }
 

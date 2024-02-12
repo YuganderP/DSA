@@ -13,7 +13,7 @@ int main(){
     }
     cout<<set;
     if(set==1){
-        cout<<endl<<"The giver number is a power of 2";
+        cout<<endl<<"The given number is a power of 2";
     }
     
 }
