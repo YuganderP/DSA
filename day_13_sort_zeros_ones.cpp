@@ -6,6 +6,7 @@ int main(){
     int left=0;
     int right=size-1;
     while(left<right){
+
         if(arr[left]==0){
             left++;
            
@@ -16,8 +17,13 @@ int main(){
             left++;
             right--;
         }
-    }
 for(int i=0;i<size;i++){
     cout<<arr[i]<<" ";
+    
 }
+
+cout<<endl;
+
+    }
+
 }

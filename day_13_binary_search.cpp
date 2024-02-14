@@ -7,7 +7,7 @@ int main(){
     int end=size;
     int target=3;
     while(start<=end){
-        int mid=(start+(end-start)/2);
+        int mid=(start+(end-start)/2); // reason start + end/2 - start /2 => start/2 +end/2
         if(target==arr[mid]){
             cout<<mid;
             break;
