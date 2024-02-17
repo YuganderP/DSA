@@ -3,8 +3,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int size=5;
-    int arr[size]={0,1,3,2,1};
+    int size=10;
+    int arr[size]={0,1,3,2,1,2,3,4,1,2};
     int start=0;
     int end=size;
         
