@@ -1,0 +1,35 @@
+Date,Topic,Problem_Name,Approach,Time_Complexity,Space_Complexity,File_Path,Cumulative_Count
+2026-09-30,Recursion,Print 1 to N and N to 1,Basic Recursion,O(N),O(N),001_Recursion/01_intro.cpp,1
+2026-09-30,Recursion,Sum of First N Numbers,Parameterised Recursion,O(N),O(N),001_Recursion/02_parameterised.cpp,2
+2026-09-30,Recursion,Factorial of N,Functional Recursion,O(N),O(N),001_Recursion/03_functional_factorial.cpp,3
+2026-09-30,Recursion,Reverse an Array,Two Pointers Recursion,O(N),O(N),001_Recursion/04_reverse_an_array_two_pointers.cpp,4
+2026-09-30,Recursion,Reverse an Array,Single Pointer Recursion,O(N),O(N),001_Recursion/05_reverse_an_array_with_one.cpp,4
+2026-09-30,Recursion,Fibonacci Number,Multiple Recursion Calls,O(2^N),O(N),001_Recursion/06_fib.cpp,5
+2026-10-02,Recursion,Fibonacci Number,Recursion,O(2^N),O(N),001_Recursion/fib_using_recursion.cpp,5
+2026-10-04,Sorting,Selection Sort,Iterative Minimum Selection,O(N^2),O(1),003_sorting/01_selection_sort.cpp,6
+2026-10-04,Sorting,Bubble Sort,Adjacent Swapping,O(N^2),O(1),003_sorting/02_bubble_sort.cpp,7
+2026-10-04,Sorting,Insertion Sort,Key Insertion,O(N^2),O(1),003_sorting/03_inserstion_sort.cpp,8
+2026-10-06,Sorting,Quick Sort,Divide & Conquer (Partition),O(N log N),O(log N),003_sorting/04_quick_sort.cpp,9
+2026-10-06,HashMap,Frequency Map / Number Hashing,Array / Map Hashing,O(N),O(N),002_HashMap/intro.cpp,10
+2026-10-06,Arrays (Easy),Largest Element in Array,Sorting Approach,O(N log N),O(1),004_Array_based_problems/001_largest_sorted.cpp,11
+2026-10-06,Arrays (Easy),Largest Element in Array,Single Pass Optimal,O(N),O(1),004_Array_based_problems/002_largestElement.cpp,11
+2026-10-06,Arrays (Easy),Second Largest and Second Smallest,Single Pass Traversal,O(N),O(1),004_Array_based_problems/003_second_largestElement_without_sorting.cpp,12
+2026-10-06,Arrays (Easy),Check if Array is Sorted,Single Pass Comparison,O(N),O(1),004_Array_based_problems/004_cheack_array_sorted.cpp,13
+2026-10-06,Arrays (Easy),Remove Duplicates from Sorted Array,Set (Brute),O(N log N),O(N),004_Array_based_problems/005_remove_duplicates_set.cpp,14
+2026-10-06,Arrays (Easy),Remove Duplicates from Sorted Array,Map (Better),O(N log N),O(N),004_Array_based_problems/006_remove_duplicates_map.cpp,14
+2026-10-06,Arrays (Easy),Remove Duplicates from Sorted Array,Two Pointers (Optimal),O(N),O(1),004_Array_based_problems/007_remove_duplicates_two_pointer.cpp,14
+2026-10-06,Arrays (Easy),Left Rotate Array by 1,Single Shift,O(N),O(1),004_Array_based_problems/008_left_rotate.cpp,15
+2026-10-06,Arrays (Easy),Left Rotate Array by D Places,Reversal Algorithm (Optimal),O(N),O(1),004_Array_based_problems/009_left_rotate_reverse.cpp,15
+2026-10-06,Arrays (Easy),Move Zeroes to End,Temporary Array (Brute),O(N),O(N),004_Array_based_problems/010_move_zeros_to_one_end.cpp,16
+2026-10-06,Arrays (Easy),Move Zeroes to End,Two Pointers (Optimal),O(N),O(1),004_Array_based_problems/011_move_zeros_two_pointer.cpp,16
+2026-10-07,Arrays (Easy),Linear Search,Linear Traversal,O(N),O(1),004_Array_based_problems/012_linear_search.cpp,17
+2026-10-07,Arrays (Easy),Union of Two Sorted Arrays,Set Approach (Brute),O((N+M)log(N+M)),O(N+M),004_Array_based_problems/013_union_of_two_sorted.cpp,18
+2026-10-07,Arrays (Easy),Union of Two Sorted Arrays,Two Pointers (Optimal),O(N+M),O(N+M),004_Array_based_problems/014_untion_two_array_optimal.cpp,18
+2026-10-07,Arrays (Easy),Intersection of Two Sorted Arrays,Two Pointers (Optimal),O(N+M),O(min(N,M)),004_Array_based_problems/015_intersection.cpp,19
+2026-10-07,Sorting,Merge Sort,Divide & Conquer (Merge),O(N log N),O(N),003_sorting/05_merge_sort.cpp,20
+2026-10-07,Arrays (Easy),Find Missing Number in Array,Linear Search (Brute),O(N^2),O(1),004_Array_based_problems/016_finding_missing_brute.cpp,21
+2026-10-07,Arrays (Easy),Find Missing Number in Array,Sum Formula (Better),O(N),O(1),004_Array_based_problems/017_missing_optimal.cpp,21
+2026-10-07,Arrays (Easy),Find Missing Number in Array,XOR Bitwise (Optimal),O(N),O(1),004_Array_based_problems/018_missing_optimal_xor.cpp,21
+2026-10-07,Arrays (Easy),Max Consecutive Ones,Single Pass Count,O(N),O(1),004_Array_based_problems/019_max_consecutive_once.cpp,22
+2026-10-07,Arrays (Easy),Find Number that Appears Once,Frequency Count (Brute),O(N^2),O(1),004_Array_based_problems/020_find_number_that_appears_brute_once.cpp,23
+2026-10-07,Arrays (Easy),Find Number that Appears Once,XOR Bitwise (Optimal),O(N),O(1),004_Array_based_problems/021_number_appears_once_optimal.cpp,23
