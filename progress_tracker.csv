@@ -33,3 +33,12 @@ Date,Topic,Problem_Name,Approach,Time_Complexity,Space_Complexity,File_Path,Cumu
 2026-10-07,Arrays (Easy),Max Consecutive Ones,Single Pass Count,O(N),O(1),004_Array_based_problems/019_max_consecutive_once.cpp,22
 2026-10-07,Arrays (Easy),Find Number that Appears Once,Frequency Count (Brute),O(N^2),O(1),004_Array_based_problems/020_find_number_that_appears_brute_once.cpp,23
 2026-10-07,Arrays (Easy),Find Number that Appears Once,XOR Bitwise (Optimal),O(N),O(1),004_Array_based_problems/021_number_appears_once_optimal.cpp,23
+2026-10-09,Arrays (Easy),Longest Subarray with Sum K,Brute Force (All Subarrays),O(N^3),O(1),004_Array_based_problems/021_longest_subArray_brute.cpp,24
+2026-10-09,Arrays (Easy),Longest Subarray with Sum K,Better Running Sum,O(N^2),O(1),004_Array_based_problems/022_longest_subarray_better.cpp,24
+2026-10-10,Arrays (Easy),Longest Subarray with Sum K,Prefix Sum Hash Map (Optimal for Pos+Neg),O(N),O(N),004_Array_based_problems/023_longest_subarray_optimal.cpp,24
+2026-10-10,Arrays (Easy),Longest Subarray with Sum K,Two Pointers Sliding Window (Optimal for Positives),O(N),O(1),004_Array_based_problems/024_langest_sub_array_two_pointer.cpp,24
+2026-10-10,Arrays (Medium),Two Sum,Brute Force Nested Loops,O(N^2),O(1),004_Array_based_problems/025_two_sum_brute.cpp,25
+2026-10-10,Arrays (Medium),Two Sum,Hash Map Lookups (Optimal),O(N),O(N),004_Array_based_problems/026_two_sum_optimal.cpp,25
+2026-10-10,Arrays (Medium),Two Sum,Two Pointers on Sorted Array (Optimal),O(N),O(1),003_sorting/0027_two_sum_optimal.cpp,25
+2026-10-10,Arrays (Medium),Sort an Array of 0s 1s and 2s,Counting Sort,O(N),O(1),004_Array_based_problems/0027_sort_0_1_2_brute.cpp,26
+2026-10-10,Arrays (Medium),Sort an Array of 0s 1s and 2s,Dutch National Flag (Optimal),O(N),O(1),004_Array_based_problems/028_DNF.cpp,26
